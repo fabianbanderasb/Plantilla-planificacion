@@ -1,7 +1,8 @@
 \def\filename{charter.cls}
 \def\fileversion{v. 0.1.0}
-\def\filedate{junio 1, 2020}
+\def\filedate{octubre 22, 2022}
 \def\contributors{Patricio Bos}
+\def\contributors{Fabián Banderas
 
 \typeout{\filename}
 \typeout{\fileversion}
